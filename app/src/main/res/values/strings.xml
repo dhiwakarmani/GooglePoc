@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search in Radius</string>
+    <string name="ad_fone">Google Places Search</string>
+    <string name="ad_fone_database">Google Places Search Using Database</string>
+</resources>
